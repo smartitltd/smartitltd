@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Nahidur Rahman
-- 👀 I’m interested in Cloud Computer and Data Science.
+- 👀 I’m interested in Cloud Computing and Data Science.
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on Computer Programming.
 - 📫 Reach me @01911211225
